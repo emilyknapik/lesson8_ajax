@@ -13,8 +13,7 @@ LIS 2360:  Web Application Development
 (This assignment taught me how to use the programs AJAX, JSON, and API.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://emilyknapik.github.io/lesson8_ajax/)
 
 ### Lessons Learned in the Assignment:
 1. (A lesson I used in this assignment was how to use the program AJAX in Cloud9.)
